@@ -1,0 +1,121 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body{
+    background-color: lightgray;
+}
+
+header{
+    background-color: #f7b600;
+    height: 135px;
+    width: 100%; 
+    
+    
+}
+#title{
+    text-align: center;
+    padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 40px;
+}
+
+p{
+    color: darkslategrey;
+    display: inline;
+}
+
+#menu{
+    text-align: center;
+    font-size: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: orange;
+}
+
+.menus{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+a:hover{
+    background-color: white;
+    color: goldenrod;
+    
+}
+
+#principal{
+    width: 920px;
+    padding: 15px;
+    margin: 0 auto; 
+}
+
+#area-postagens{
+    width: 660px;
+    float: left;
+}
+
+#lateral{
+    width: 240px;
+    float: right;
+}
+
+img{
+    margin: 10px 0px;
+}
+h2{
+    color: orange;
+}
+
+
+
+.lable{
+    font-size: 11px;
+}
+
+.postagens-lateral{
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 0.8em;
+    
+}
+
+.postagens{
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    padding: 1px;
+}
+
+.list:hover{
+    text-decoration: underline;
+    color: orange;
+}
+
+.h2post{
+	background-color: lightgray;
+    padding: 2px;
+    color: dimgray;
+    font-size: 20px;
+}
+
+#border{
+    border-bottom: 1px dashed #ccc;
+}
