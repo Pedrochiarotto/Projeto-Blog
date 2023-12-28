@@ -119,3 +119,15 @@ li{
 #border{
     border-bottom: 1px dashed #ccc;
 }
+
+footer{
+    clear: both;
+    margin: 0 auto;
+    background-color: gray;
+}
+
+#foot{
+    color: white;
+    text-align: center;
+    font-size: 0.5em;
+}
